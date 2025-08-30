@@ -38,5 +38,6 @@ public class exAula6 {
         }
         System.out.printf("-----------------------------------------");
         System.out.printf("*****************");
+        System.out.printf("teste commit");
     }
 }
