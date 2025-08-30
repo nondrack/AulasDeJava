@@ -36,7 +36,7 @@ public class exAula6 {
         }else {
             System.out.println("Possui materias diferentes ");
         }
-
+        System.out.printf("-----------------------------------------");
     }
 
 }
